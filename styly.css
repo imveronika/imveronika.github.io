@@ -1,0 +1,27 @@
+/*Toto je komentar, slouzi pouze pro poznamky. Svoje styly piste pod nej*/
+/*Napriklad:*/
+/*h1 { color: red; }*/
+nav{background-color: #333333; padding: 10px; text-align: center; }
+
+li{font-family: tahoma; display: inline-block; margin-right: 70px;}
+
+
+a{color: gray; text-decoration: none;}
+a:hover{color: white;}
+
+h1{clear: both; font-family: tahoma; font-weight: bold;font-size: 30px;}
+aside{float:left; width: 400px;font-family: tahoma; font-weight: bold;}
+article{float: right; width: 500px;}
+h2{font-family: tahoma; font-weight: bold; font-size: 20px;}
+p{font-family: tahoma; text-align: justify;}
+.selfie{width: 300px;}
+.obr1{width: 300px;padding-bottom: 30px;}
+.obr2{width: 300px;padding-bottom: 30px;}
+.popisek{font-size: 13px; color: gray; font-family: tahoma;font-style: italic;}
+
+.vytvoreno{font-size: 13px; color: gray; font-family: tahoma;font-style: italic;}
+section{margin:auto; padding: 10px; width:900px}
+
+footer{clear: both; font-size: 13px; 
+	background-color: #333333; color: white; padding: 10px; text-align: center;}
+footer p{text-align: center;}
